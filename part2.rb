@@ -1,7 +1,5 @@
 movies = []
 
-under_100 = []
-
 movies << {
   title: "Forest Gump",
   budget: 55,
