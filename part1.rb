@@ -16,6 +16,8 @@ array.each do |word|
 
 end
 
+puts five_letters.inspect
+
 fives = five_letters.count
 
 puts "The string has #{fives} five-letter words."
